@@ -1,0 +1,12 @@
+h1 {
+	text-align: center;
+}
+.boxes {
+	height: 300px;
+	background-color: #0FF;
+}
+.items {
+	float: left;
+	margin-left: 400px;
+	width: 300px;
+} 
